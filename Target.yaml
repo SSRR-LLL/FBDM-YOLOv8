@@ -1,0 +1,13 @@
+# dataset path
+path: D:/shujuji/55 # dataset root dir
+train: images/train # train images (relative to 'path') 128 images
+val: images/val # val images (relative to 'path') 128 images
+#test: images/test  # test images (optional)
+
+# Classes
+names:
+  0: Basophil
+  1: Eosinophil
+  2: lymphocyte
+  3: Monocyte
+  4: Neutrophil
